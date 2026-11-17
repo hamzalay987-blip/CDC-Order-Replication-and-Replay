@@ -1,0 +1,5 @@
+{"order_id":"A","sequence":1,"op":"insert","amount":20}
+{"order_id":"A","sequence":3,"op":"update","amount":25}
+{"order_id":"A","sequence":2,"op":"update","amount":22}
+{"order_id":"B","sequence":1,"op":"insert","amount":10}
+{"order_id":"B","sequence":2,"op":"delete"}
